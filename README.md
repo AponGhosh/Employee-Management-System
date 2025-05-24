@@ -41,7 +41,6 @@ The **Employee Management System** is a console-based application designed to st
 - **Development Environment**: 
   - Code Editors: Visual Studio Code
 
-## Installation
-1. Clone the repository:
+## Clone the repository
    ```bash
    git clone https://github.com/AponGhosh/Employee-Management-System.git
